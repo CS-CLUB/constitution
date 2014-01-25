@@ -1,5 +1,5 @@
-constitution
-============
+Computer Science Club Constitution
+===================================
 
 The Computer Science Club constitution, an elegant piece of legalese!
 
